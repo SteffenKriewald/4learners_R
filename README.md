@@ -55,12 +55,12 @@ The structure of this repository is outlined below:
     └───notebooks_and_scripts
     │   └───_img
     │   │   │...           # rendered images are placed here
-    │   │...               # find all R scripts and notebooks here
+    │   │...               # find all R scripts and notebooks for the workshop here
     │
     │README.md
     │
     └───src
-        │...               # here go the code snippets and scripts
+        │...               # auxiliary code snippets and scripts
         └───_solutions
             │...           # solutions for coding challenges (don't cheat yourself ;-))
 
